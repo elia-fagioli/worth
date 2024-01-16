@@ -37,6 +37,7 @@ mvn clean
 ### Eseguire il server e il/i client:
 
 java -jar ./Server/target/Server-jar-with-dependencies.jar
+
 java -jar ./Client/target/Client-jar-with-dependencies.jar
 
 
